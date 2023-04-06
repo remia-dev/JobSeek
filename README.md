@@ -1,5 +1,7 @@
 # JobSeek
 
+![image](public/2.PNG)
+
 ## Description
 
 JobSeek is a comprehensive landing page designed to help job seekers in their quest for their dream career. With its user-friendly interface and intuitive design, JobSeek provides job seekers with easy access to a variety of job opportunities in different industries.
@@ -17,5 +19,3 @@ cd directory
 pnpm i 
 pnpm run dev
 ```
-
-## Usage
